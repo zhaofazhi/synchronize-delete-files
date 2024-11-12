@@ -1,0 +1,12 @@
+{
+    "local_dir": "/Users/zhaofazhi/Desktop/文件同步工具",
+    "md5_file": "./cmd5_record.json",
+    "remote_dir": "/var/www/files",
+    "ssh_host": "files.zhaofazhi.top",
+    "ssh_user": "root",
+    "ssh_password": "ZFZ1995622zfz",
+    "exclude_files": [
+        "cmd5_record.json",
+        ".DS_Store"
+    ]
+}
