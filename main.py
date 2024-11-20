@@ -1,3 +1,8 @@
+# 文件同步工具
+# 作者: [赵发志]
+# 日期: 2024-11-12
+# 描述: 使用 Tkinter 创建的文件同步配置工具，支持排除特定文件的上传、MD5 校验及自动同步功能。
+# pyinstaller --windowed --icon='icon.icns' --name=SynchronizeDeleteFiles main.py
 import json
 import os
 import threading
